@@ -1,0 +1,181 @@
+---------------Run number 631------------------------------
+Scale: Accuracy: 0.8667 Precision: 0.6223 Recal: 0.6223 F1_Score: 0.6938
+Duração: 39.0
+Configuration:
+(None, 'log2', 2, 5, 800)	
+
+---------------Run number 235------------------------------
+Scale: Accuracy: 0.8654 Precision: 0.6203 Recal: 0.6203 F1_Score: 0.6910
+Duração: 39.0
+Configuration:
+(40, 'auto', 2, 5, 800)
+---------------Run number 236------------------------------
+Scale: Accuracy: 0.8665 Precision: 0.6210 Recal: 0.6210 F1_Score: 0.6930
+Duração: 71.0
+Configuration:
+(40, 'auto', 2, 5, 1400)
+---------------Run number 237------------------------------
+Scale: Accuracy: 0.8657 Precision: 0.6173 Recal: 0.6173 F1_Score: 0.6904
+Duração: 10.0
+Configuration:
+(40, 'auto', 2, 10, 200)
+
+---------------Run number 262------------------------------
+Scale: Accuracy: 0.8644 Precision: 0.6227 Recal: 0.6227 F1_Score: 0.6902
+Duração: 27.0
+Configuration:
+(40, 'sqrt', 1, 10, 500)
+---------------Run number 263------------------------------
+Scale: Accuracy: 0.8641 Precision: 0.6223 Recal: 0.6223 F1_Score: 0.6897
+Duração: 42.0
+Configuration:
+(40, 'sqrt', 1, 10, 800)
+---------------Run number 264------------------------------
+Scale: Accuracy: 0.8650 Precision: 0.6257 Recal: 0.6257 F1_Score: 0.6922
+Duração: 78.0
+Configuration:
+(40, 'sqrt', 1, 10, 1400)
+---------------Run number 265------------------------------
+Scale: Accuracy: 0.8652 Precision: 0.6193 Recal: 0.6193 F1_Score: 0.6904
+Duração: 11.0
+Configuration:
+(40, 'sqrt', 2, 2, 200)
+---------------Run number 266------------------------------
+Scale: Accuracy: 0.8652 Precision: 0.6190 Recal: 0.6190 F1_Score: 0.6903
+Duração: 26.0
+Configuration:
+(40, 'sqrt', 2, 2, 500)
+---------------Run number 267------------------------------
+Scale: Accuracy: 0.8650 Precision: 0.6207 Recal: 0.6207 F1_Score: 0.6904
+Duração: 41.0
+Configuration:
+(40, 'sqrt', 2, 2, 800)
+---------------Run number 268------------------------------
+Scale: Accuracy: 0.8644 Precision: 0.6200 Recal: 0.6200 F1_Score: 0.6893
+Duração: 76.0
+Configuration:
+(40, 'sqrt', 2, 2, 1400)
+---------------Run number 269------------------------------
+Scale: Accuracy: 0.8640 Precision: 0.6163 Recal: 0.6163 F1_Score: 0.6874
+Duração: 10.0
+Configuration:
+(40, 'sqrt', 2, 5, 200)
+---------------Run number 270------------------------------
+Scale: Accuracy: 0.8649 Precision: 0.6196 Recal: 0.6196 F1_Score: 0.6900
+Duração: 25.0
+Configuration:
+(40, 'sqrt', 2, 5, 500)
+---------------Run number 271------------------------------
+Scale: Accuracy: 0.8643 Precision: 0.6149 Recal: 0.6149 F1_Score: 0.6874
+Duração: 41.0
+Configuration:
+(40, 'sqrt', 2, 5, 800)
+---------------Run number 272------------------------------
+Scale: Accuracy: 0.8654 Precision: 0.6196 Recal: 0.6196 F1_Score: 0.6907
+Duração: 70.0
+Configuration:
+(40, 'sqrt', 2, 5, 1400)
+---------------Run number 273------------------------------
+Scale: Accuracy: 0.8641 Precision: 0.6159 Recal: 0.6159 F1_Score: 0.6875
+Duração: 10.0
+Configuration:
+(40, 'sqrt', 2, 10, 200)
+---------------Run number 274------------------------------
+Scale: Accuracy: 0.8657 Precision: 0.6196 Recal: 0.6196 F1_Score: 0.6913
+Duração: 24.0
+Configuration:
+(40, 'sqrt', 2, 10, 500)
+
+---------------Run number 305------------------------------
+Scale: Accuracy: 0.8650 Precision: 0.6213 Recal: 0.6213 F1_Score: 0.6908
+Duração: 11.0
+Configuration:
+(40, 'log2', 2, 5, 200)
+---------------Run number 306------------------------------
+Scale: Accuracy: 0.8650 Precision: 0.6193 Recal: 0.6193 F1_Score: 0.6901
+Duração: 25.0
+Configuration:
+(40, 'log2', 2, 5, 500)
+---------------Run number 307------------------------------
+Scale: Accuracy: 0.8651 Precision: 0.6193 Recal: 0.6193 F1_Score: 0.6902
+Duração: 39.0
+Configuration:
+(40, 'log2', 2, 5, 800)
+---------------Run number 308------------------------------
+Scale: Accuracy: 0.8648 Precision: 0.6203 Recal: 0.6203 F1_Score: 0.6901
+Duração: 70.0
+Configuration:
+(40, 'log2', 2, 5, 1400)
+---------------Run number 309------------------------------
+Scale: Accuracy: 0.8658 Precision: 0.6186 Recal: 0.6186 F1_Score: 0.6910
+Duração: 10.0
+Configuration:
+(40, 'log2', 2, 10, 200)
+---------------Run number 310------------------------------
+Scale: Accuracy: 0.8644 Precision: 0.6169 Recal: 0.6169 F1_Score: 0.6883
+Duração: 24.0
+Configuration:
+(40, 'log2', 2, 10, 500)
+---------------Run number 311------------------------------
+Scale: Accuracy: 0.8656 Precision: 0.6180 Recal: 0.6180 F1_Score: 0.6906
+Duração: 39.0
+Configuration:
+(40, 'log2', 2, 10, 800)
+
+---------------Run number 338------------------------------
+Scale: Accuracy: 0.8657 Precision: 0.6220 Recal: 0.6220 F1_Score: 0.6921
+Duração: 25.0
+Configuration:
+(70, 'auto', 2, 2, 500)
+---------------Run number 339------------------------------
+Scale: Accuracy: 0.8650 Precision: 0.6207 Recal: 0.6207 F1_Score: 0.6906
+Duração: 40.0
+Configuration:
+(70, 'auto', 2, 2, 800)
+---------------Run number 340------------------------------
+Scale: Accuracy: 0.8658 Precision: 0.6217 Recal: 0.6217 F1_Score: 0.6921
+Duração: 75.0
+Configuration:
+(70, 'auto', 2, 2, 1400)
+---------------Run number 341------------------------------
+Scale: Accuracy: 0.8644 Precision: 0.6180 Recal: 0.6180 F1_Score: 0.6886
+Duração: 11.0
+Configuration:
+(70, 'auto', 2, 5, 200)
+---------------Run number 342------------------------------
+Scale: Accuracy: 0.8659 Precision: 0.6200 Recal: 0.6200 F1_Score: 0.6918
+Duração: 25.0
+Configuration:
+(70, 'auto', 2, 5, 500)
+---------------Run number 343------------------------------
+Scale: Accuracy: 0.8659 Precision: 0.6227 Recal: 0.6227 F1_Score: 0.6926
+Duração: 39.0
+Configuration:
+(70, 'auto', 2, 5, 800)
+---------------Run number 344------------------------------
+Scale: Accuracy: 0.8653 Precision: 0.6217 Recal: 0.6217 F1_Score: 0.6913
+Duração: 73.0
+Configuration:
+
+
+
+
+
+
+---------------Run number 236------------------------------
+Scale: Accuracy: 0.8665 Precision: 0.6210 Recal: 0.6210 F1_Score: 0.6930
+Duração: 71.0
+Configuration:
+(40, 'auto', 2, 5, 1400)
+
+---------------Run number 595------------------------------
+Scale: Accuracy: 0.8667 Precision: 0.6213 Recal: 0.6213 F1_Score: 0.6934
+Duração: 39.0
+Configuration:
+(None, 'sqrt', 2, 5, 800)
+
+---------------Run number 631------------------------------
+Scale: Accuracy: 0.8667 Precision: 0.6223 Recal: 0.6223 F1_Score: 0.6938
+Duração: 39.0
+Configuration:
+(None, 'log2', 2, 5, 800)
