@@ -102,4 +102,4 @@ clfRandomForest = RandomForestClassifier(criterion='entropy', max_depth=None, ma
 clfRandomForest.fit(X_train, y_train)
 y_hat = clfRandomForest.predict(X_test)
 
-print(f'Scale: Accuracy: {str(acc(y_test,y_hat))} Precision: {str(prec(y_test,y_hat, average=None))} Recal: {str(rec(y_test,y_hat, average=None))} F1_Score: {str(f1_scr(y_test,y_hat, average=None))} ')
+print(f'Scale: Accuracy: {str(acc(y_test,y_hat))} Precision: {str(prec(y_test,y_hat))} Recal: {str(rec(y_test,y_hat))} F1_Score: {str(f1_scr(y_test,y_hat))} ')
